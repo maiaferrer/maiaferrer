@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front End Development
 - 🌱 I’m currently attending UNC Charlottes Coding Bootcamp
 - 📫 How to reach me:
-contact me at: maiaferrer604@gmail.com or
+maiaferrer604@gmail.com or
 [Github](https://github.com/maiaferrer)
 [Linkedin](https://www.linkedin.com/in/maia-f-2b7aa710a)
 
